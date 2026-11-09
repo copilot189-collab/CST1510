@@ -1,0 +1,5 @@
+Server1,OK
+Server2,WARNING
+Server3,OVER LIMIT
+Server4,OK
+Server5,OVER LIMIT
