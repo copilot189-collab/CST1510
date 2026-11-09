@@ -1,0 +1,10 @@
+hostname,region,used,total,percent,status
+srv-01,east,87,100,87.0,OK
+srv-02,east,95,100,95.0,WARNING
+srv-03,west,120,100,120.0,OVER LIMIT
+srv-04,west,45,100,45.0,OK
+srv-05,north,101,100,101.0,OVER LIMIT
+srv-06,east,70,100,70.0,OK
+srv-07,west,93,100,93.0,WARNING
+srv-08,north,92,100,92.0,WARNING
+srv-09,east,60,100,60.0,OK
